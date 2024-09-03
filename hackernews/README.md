@@ -30,3 +30,7 @@ yarn watch
 ```bash
 dx serve --port 9090
 ```
+
+## Used tailwind components
+
+https://www.creative-tim.com/twcomponents/component/inbox
