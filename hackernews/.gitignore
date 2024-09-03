@@ -12,3 +12,6 @@
 **/*.rs.bk
 
 node_modules/
+
+.yarn
+.yarnrc.yml
